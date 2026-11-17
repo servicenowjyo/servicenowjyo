@@ -1,74 +1,91 @@
-# Lakshmi Sravani P
+# Lakshmi Sravani Putta
 
-### ServiceNow Developer | ITSM • ITOM • HRSD • GRC / IRM
+### ServiceNow Developer | Delivery Support | Governance and Workflow Automation
 
-I build ServiceNow workflows, integrations and employee experiences, from requirements and configuration through testing, go-live and production support in Agile teams.
+ServiceNow professional with **9 years of experience** across **ITSM, ITOM, HRSD and GRC/IRM**. I translate business requirements into workflows, approvals, access controls and reporting, and support testing, go-live and production operations in Agile teams.
 
 Based in **Atlanta, Georgia**.
 
-[LinkedIn](https://www.linkedin.com/in/sravani-p-308a34368/) · [ServiceNow finance project](https://github.com/servicenowjyo/servicenow-invoice-exception-mgmt)
+[LinkedIn](https://www.linkedin.com/in/sravani-p-308a34368/) · [GitHub projects](https://github.com/servicenowjyo?tab=repositories) · **Public professional email: [sravannik9@gmail.com](mailto:sravannik9@gmail.com)**
 
-## Featured project
+## Project portfolio
 
-### Manufacturing Invoice Exception Management
+| Project | What it covers |
+| --- | --- |
+| [Project Financial Management](https://github.com/servicenowjyo/servicenow-project-financial-management) | Forecast at completion, budget variance, cost/schedule performance indicators and persisted review recommendations. |
+| [Project Governance](https://github.com/servicenowjyo/servicenow-project-governance) | Stage-gate readiness, accountable ownership, business cases, sponsor evidence, evidence freshness and risk responses. |
+| [Project Planning](https://github.com/servicenowjyo/servicenow-project-planning) | Critical activities, task float, finish dates, deadline slippage and resource conflicts within a plan. |
+| [Event Revenue Assistant](https://github.com/servicenowjyo/servicenow-events-revenue-assistant) | Scoped app, Script Includes, scheduled review and a form action for quotes, margins, deposits and optional add-ons. |
+| [Finance Invoice Controls](https://github.com/servicenowjyo/servicenow-invoice-exception-mgmt) | Task-based invoice exceptions, reusable matching logic, Business Rules and human review for duplicates, price mismatches and receipt shortfalls. |
+| [Jewellery Exchange Controls](https://github.com/servicenowjyo/servicenow-jewellery-exchange-controls) | Purchase validation, exchange-credit calculation, repeat-claim checks and exception review through a custom UI Page. |
 
-A ServiceNow developer-instance project that turns invoice discrepancies into explainable review cases.
+These are custom developer-instance portfolio projects using test data. Each repository documents its implementation, tests and evidence. They are not represented as production client deployments or measured business savings.
 
-- Task-based intake with preserved invoice and purchase-order snapshots.
-- JavaScript, GlideRecord, Script Includes and Business Rules for duplicate invoice, price and receipt checks.
-- Automatic human-review requests for newly held cases.
-- **4 synthetic cases:** 1 matched and 3 held; **$4,100 in sample exposure on hold**.
-- **15 local policy tests passed**, plus platform checks for automatic review creation, invalid-input rejection and immutable intake.
-- Source code, synthetic data, screenshots, test evidence and a step-by-step implementation guide.
-
-[Explore the code and evidence →](https://github.com/servicenowjyo/servicenow-invoice-exception-mgmt)
-
-*Portfolio demonstration using synthetic data. Held exposure is not realized savings. No payments were executed; this is not a production payment system.*
-
-## Technical skills
+## Relevant capabilities
 
 | Area | Skills |
-|---|---|
-| ServiceNow platform | ITSM, ITOM, HRSD, GRC / IRM |
-| Development | JavaScript, Glide API, Business Rules, Client Scripts, Script Includes, UI Policies, ACLs |
-| Automation and validation | Flow Designer, IntegrationHub, Automated Test Framework (ATF) |
-| Operations | Discovery, Service Mapping, Event Management, CMDB, MID Server |
-| Integrations and data | REST, SOAP, Import Sets, Transform Maps |
-| User experience | Next Experience, UI Builder, configurable workspaces, Employee Center, Service Portal |
-| AI capabilities | Now Assist, AI Agents, AI Control Tower |
+| --- | --- |
+| Platform | ITSM, ITOM, HRSD, GRC/IRM |
+| Development | JavaScript, Glide API, Script Includes, Business Rules, Client Scripts, roles and ACLs |
+| Automation and integrations | Flow Designer, IntegrationHub, REST, SOAP |
+| User experience | UI Builder, Employee Center, Service Portal |
+| Operations and validation | Discovery, Service Mapping, Event Management, MID Servers, CMDB, ATF |
+| Delivery | Requirements clarification, stakeholder collaboration, Agile delivery, testing and upgrade validation, go-live support, issue resolution, user training and operational reporting |
+| Governance | Risk registers, control attestations, audit remediation, accountable owners, due dates, escalations and approval workflows |
 
 ## Professional experience
 
-**ServiceNow Developer — Meeami Technologies**  
-November 2025 – April 2026
+### ServiceNow Developer — Meeami Technologies
+**November 2025 – April 2026**
 
-Risk registers, consistent risk scoring, compliance controls and attestations, audit findings, remediation workflows and leadership dashboards.
+- Implemented risk registers, standard risk statements and scoring criteria for consistent assessment.
+- Configured compliance controls, scheduled attestations and reminders; reduced the attestation cycle by 30%.
+- Mapped regulatory requirements to policies and control objectives and supported audit findings and remediation with owners, due dates and escalations.
+- Built leadership dashboards for risks, overdue controls and audit issues.
 
-**ServiceNow Developer — OSI Digital**  
-July 2024 – October 2025
+### ServiceNow Developer — OSI Digital
+**July 2024 – October 2025**
 
-HR Service Delivery, Lifecycle Events onboarding, Employee Center, Flow Designer approvals, workspace pages, HR access controls, SLAs and hypercare.
+- Configured HR services, case categories, specialist routing, request forms and fulfilment workflows.
+- Automated onboarding using Lifecycle Events and built Employee Center and UI Builder workspace pages.
+- Built Flow Designer approvals, HR roles and ACLs, SLAs and status notifications.
+- Trained HR agents and resolved production issues during hypercare.
 
-**ServiceNow Developer — FedEx**  
-October 2022 – May 2024
+### ServiceNow Developer — Client FINRA
+**October 2022 – May 2024**
 
-Discovery, Service Mapping, Event Management, MID Servers, custom Discovery patterns and CMDB data quality.
+- Supported ServiceNow workflows, application configuration and reporting.
+- Supported integrations, access controls and production issue resolution.
 
-**ServiceNow Developer — eBay**  
-March 2019 – August 2022
+### ServiceNow Developer — Client Oncore
+**March 2019 – August 2022**
 
-Incident, Problem and Change Management, Service Catalog, self-service portals, REST integrations and ATF upgrade validation.
+- Supported ServiceNow workflows, application configuration and report updates.
+- Supported integrations, access controls and production-support tasks.
+
+### ServiceNow Developer — FedEx
+**September 2017 – February 2019**
+
+- Coordinated Discovery credential and firewall issue resolution with infrastructure teams and maintained MID Servers.
+- Configured Service Mapping and Event Management.
+- Improved CMDB quality through deduplication, reconciliation and data-source ownership; developed custom Discovery patterns and operational reports.
+
+### ServiceNow Developer — eBay
+**March 2017 – August 2017**
+
+- Supported Incident, Problem and Change Management, approval workflows and risk assessments.
+- Worked on catalog requests, self-service portals and REST integrations, with production support and upgrade validation.
 
 ## Education
 
-- **M.S. Computer Science, Data Analytics** — Indiana Wesleyan University, USA · 2024
-- **B.Tech. Computer Science** — Anna University, India · 2007
+- **Doctor of Education in Leadership and Artificial Intelligence** — Anderson University · **In progress**
+- **M.S. Computer Science, Data Analytics** — Indiana Wesleyan University · **2024**
+- **B.Tech. Computer Science** — Anna University · **2007**
 
-## Training and courses
+## Professional development
 
-- Python Programming Fundamentals
-- SQL for BigQuery and Cloud SQL
+- **Project Management Professional (PMP)** — **In progress**; certification not yet earned.
 
 ## Connect
 
-For professional conversations, connect with me on [LinkedIn](https://www.linkedin.com/in/sravani-p-308a34368/).
+Open to ServiceNow Developer opportunities. Contact **[sravannik9@gmail.com](mailto:sravannik9@gmail.com)** or connect on **[LinkedIn](https://www.linkedin.com/in/sravani-p-308a34368/)**.
