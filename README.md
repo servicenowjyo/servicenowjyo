@@ -6,7 +6,7 @@ ServiceNow professional with **9 years of experience** across **ITSM, ITOM, HRSD
 
 Based in **Atlanta, Georgia**.
 
-[LinkedIn](https://www.linkedin.com/in/sravani-p-308a34368/) · [GitHub projects](https://github.com/servicenowjyo?tab=repositories) · **Public professional email: [sravannik9@gmail.com](mailto:sravannik9@gmail.com)**
+[LinkedIn](https://www.linkedin.com/in/lakshmi-sravani-putta-308a34368/) · [GitHub projects](https://github.com/servicenowjyo?tab=repositories) · **Public professional email: [sravannik9@gmail.com](mailto:sravannik9@gmail.com)**
 
 ## Project portfolio
 
@@ -88,4 +88,4 @@ These are custom developer-instance portfolio projects using test data. Each rep
 
 ## Connect
 
-Open to ServiceNow Developer opportunities. Contact **[sravannik9@gmail.com](mailto:sravannik9@gmail.com)** or connect on **[LinkedIn](https://www.linkedin.com/in/sravani-p-308a34368/)**.
+Open to ServiceNow Developer opportunities. Contact **[sravannik9@gmail.com](mailto:sravannik9@gmail.com)** or connect on **[LinkedIn](https://www.linkedin.com/in/lakshmi-sravani-putta-308a34368/)**.
