@@ -2,7 +2,7 @@
 
 ### ServiceNow Developer | Delivery Support | Governance and Workflow Automation
 
-ServiceNow professional with **9 years of experience** across **ITSM, ITOM, HRSD and GRC/IRM**. I translate business requirements into workflows, approvals, access controls and reporting, and support testing, go-live and production operations in Agile teams.
+ServiceNow professional with **9 years of experience** across **ITSM, ITOM, HRSD and GRC/IRM**. I translate business requirements into workflows, approvals, access controls and reporting, and support testing, go-live and production operations in Agile teams. ServiceNow Micro-Certified in **CMDB Health**.
 
 Based in **Atlanta, Georgia**.
 
@@ -29,7 +29,7 @@ These are custom developer-instance portfolio projects using test data. Each rep
 | Development | JavaScript, Glide API, Script Includes, Business Rules, Client Scripts, roles and ACLs |
 | Automation and integrations | Flow Designer, IntegrationHub, REST, SOAP |
 | User experience | UI Builder, Employee Center, Service Portal |
-| Operations and validation | Discovery, Service Mapping, Event Management, MID Servers, CMDB, ATF |
+| Operations and validation | Discovery, Service Mapping, Event Management, MID Servers, CMDB, CMDB Health, ATF |
 | Delivery | Requirements clarification, stakeholder collaboration, Agile delivery, testing and upgrade validation, go-live support, issue resolution, user training and operational reporting |
 | Governance | Risk registers, control attestations, audit remediation, accountable owners, due dates, escalations and approval workflows |
 
@@ -82,9 +82,10 @@ These are custom developer-instance portfolio projects using test data. Each rep
 - **M.S. Computer Science, Data Analytics** — Indiana Wesleyan University · **2024**
 - **B.Tech. Computer Science** — Anna University · **2007**
 
-## Professional development
+## Certifications
 
-- **Project Management Professional (PMP)** — **In progress**; certification not yet earned.
+- ✅ **ServiceNow Micro-Certification – CMDB Health** — ServiceNow University · **November 2026**
+- 📘 **Project Management Professional (PMP)** — **In progress**; certification not yet earned.
 
 ## Connect
 
